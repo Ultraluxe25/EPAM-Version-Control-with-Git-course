@@ -1,1 +1,1 @@
-# EPAM-Version-Control-with-Git-course
+# EPAM Version Control with Git course
